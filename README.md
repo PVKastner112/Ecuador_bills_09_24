@@ -1,2 +1,2 @@
 # Ecuador_bills_09_24
-This repo show code to scrape and analyse all bills from Ecuadorian National Assembly from 2009 to 2024
+This repo shows code to scrape and analyse all bills from the Ecuadorian National Assembly from 2009 to 2024
